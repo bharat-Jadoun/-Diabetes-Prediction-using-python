@@ -1,1 +1,1 @@
-# -Diabetes-Prediction-using-python
+# Diabetes-Prediction-using-python
